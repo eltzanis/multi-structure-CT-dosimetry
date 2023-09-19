@@ -2,7 +2,7 @@
 The aim of this project was the development of a machine learning-based methodology for the automated personalized radiation dosimetry in CT.
 The developed pipeline combines a robust organ segmentation tool ([TotalSegmentator](https://github.com/wasserth/TotalSegmentator)) and dose prediction deep neural networks (DNNs) for the rapid and accurate estimation of radiation doses for 29 organs/tissues including sub-volumes of the heart and lungs.
 
-Created by the Department of Medical Physics, School of Medicine, University of Crete.
+Created at the Department of Medical Physics, School of Medicine, University of Crete.
 
 Contributors: Dr. Eleftherios Tzanis, Prof. John Damilakis
 
