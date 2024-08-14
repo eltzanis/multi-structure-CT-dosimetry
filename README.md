@@ -14,3 +14,9 @@ The development of the dose prediction DNNs is performed with PyTorch. Users can
 Validation notebooks can be used for the independent evaluation of the developed models. Moreover, the inference notebooks can be used for the implementation of the proposed pipeline.
 
 For demonstration purposes we provide two anonymized CT examinations. Users can test the developed workflow by using the inference notebooks and the dose prediction DNNs available in 'abdomen_models' and 'chest_models' folders.
+
+# Reference
+For more details, see our publication: [A Machine Learning-Based Pipeline for Multi-Organ/Tissue Patient-Specific Radiation Dosimetry in CT](https://doi.org/10.1007/s00330-024-11002-0). If you use this tool, please cite it as follows:
+
+```markdown
+Tzanis, E., Damilakis, J. A machine learning-based pipeline for multi-organ/tissue patient-specific radiation dosimetry in CT. Eur Radiol (2024). https://doi.org/10.1007/s00330-024-11002-0
