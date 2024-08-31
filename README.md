@@ -6,6 +6,8 @@ Created at the Department of Medical Physics, School of Medicine, University of 
 
 Contributors: Dr. Eleftherios Tzanis, Prof. John Damilakis
 
+![Graphical Abstract](Graphical_abstract.png)
+
 # Usage
 This repository provides the necessary code for the development and implementation of the proposed methodology.
 
