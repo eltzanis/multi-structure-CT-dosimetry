@@ -21,4 +21,4 @@ For demonstration purposes we provide two anonymized CT examinations. Users can 
 For more details, see our publication: [A Machine Learning-Based Pipeline for Multi-Organ/Tissue Patient-Specific Radiation Dosimetry in CT](https://doi.org/10.1007/s00330-024-11002-0). If you use this tool, please cite it as follows:
 
 ```markdown
-Tzanis, E., Damilakis, J. A machine learning-based pipeline for multi-organ/tissue patient-specific radiation dosimetry in CT. Eur Radiol (2024). https://doi.org/10.1007/s00330-024-11002-0
+Tzanis, E., Damilakis, J. A machine learning-based pipeline for multi-organ/tissue patient-specific radiation dosimetry in CT. Eur Radiol 35, 919–928 (2025). https://doi.org/10.1007/s00330-024-11002-0
